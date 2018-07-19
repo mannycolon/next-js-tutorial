@@ -1,7 +1,7 @@
 {
-  "name": "hello-next",
+  "name": "next-js-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "Next.js basic tutorial.",
   "main": "index.js",
   "scripts": {
     "dev": "node server.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.0.0",
     "next": "^6.1.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
